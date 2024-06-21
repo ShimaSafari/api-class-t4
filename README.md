@@ -1,4 +1,4 @@
 # api-class-t4
-#🍕🥪🌯🥗🍗🥩 Recipes List 🍪🧁🍰🍹🍸🧉
+🍕🥪🌯🥗🍗🥩 Recipes List 🍪🧁🍰🍹🍸🧉
 
-fetch and display recipes data from the [DummyJSON](https://reqres.in/](https://dummyjson.com/docs/recipes) API using plain HTML, CSS, and JavaScript.
+fetch and display recipes data from the DummyJSON(https://dummyjson.com/docs/recipes) API using plain HTML, CSS, and JavaScript.
